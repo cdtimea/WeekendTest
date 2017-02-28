@@ -29,7 +29,7 @@ public class Example {
         //while (counter > 0) {
         for (int counter = 0; counter < min; counter++) {
             sum = sum + 1;
-            SkeletonJava.printConsole("Adding 1 to sum");
+            SkeletonJava.printConsole("sigur 1 to sum");
             // counter = counter - 1;
         }
 
